@@ -11,4 +11,4 @@
  
  Bu prototipler oyun geliştirme, oyun tasarımı, 3d modelleme/tasarım ve level tasarım bilgi ve becerilerimi geliştirmek için yapılmıştır.
  Projelerde belirttiğim içerikler tarafımca geliştirilmiştir. Diğer içeriklerin bilgisi ve telif hakları o projenin içinde verilmiştir.
- Projeler hakkında bilgi projenin README dosyasında verilmiştir.
+ Projeler hakkında bilgi projenin README dosyasındadır.
